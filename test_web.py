@@ -926,8 +926,6 @@ if __name__ == "__main__":
 #
 #         # 5. 等待并填入账号密码 (此处需根据实际页面元素调整选择器)
 #         # 提示：使用 browser inspector 检查实际元素的 name 或 id
-#         page.fill("input[name='username']", "tmxb")  # 替换为你的用户名
-#         page.fill("input[name='password']", "wyyxhybbjy")  # 替换为你的密码
 #
 #         # 6. 点击登录按钮
 #         page.click("input[name='submit']")
